@@ -1,0 +1,7 @@
+# Preface {.unnumbered}
+
+This is a book created from markdown and executable code.
+
+It contains my experiments with computer simulations in R.
+
+I'll start using some examples from [this book](https://bookdown.org/amesoudi/ABMtutorial_bookdown/), but eventually I'll add more.

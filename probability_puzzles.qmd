@@ -1,0 +1,3 @@
+# Probability Puzzles
+
+Some remarks about probability puzzles

@@ -1,0 +1,32 @@
+project:
+  type: book
+
+book:
+  title: "Simulations"
+  author: "andrés castro araújo"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: cultural_evolution.qmd
+      chapters:
+        - unbiased_transmission.qmd
+        - mutation.qmd
+        - transmission_bias1.qmd
+        - transmission_bias2.qmd
+    - part: probability_puzzles.qmd
+      chapters:
+        - fivethirtyeight.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: lumen
+    mainfont: Amiri
+    monofont: Fira Code
+    fontsize: 1em
+
+editor: visual
+

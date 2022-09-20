@@ -1,0 +1,3 @@
+# Introduction
+
+Some general remarks about models and agent-based modeling in particular.
